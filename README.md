@@ -1,2 +1,9 @@
-ADD line1
-ADD line5
+# git_test
+
+line3
+
+line5
+
+line7
+
+topic-A
